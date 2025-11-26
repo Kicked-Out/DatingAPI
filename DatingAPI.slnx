@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DatingAPI.Domain/DatingAPI.Domain.csproj" />
+  <Project Path="DatingAPI.Infrastructure/DatingAPI.Infrastructure.csproj" />
+  <Project Path="DatingAPI/DatingAPI.csproj" />
+</Solution>
